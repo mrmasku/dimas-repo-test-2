@@ -3,3 +3,5 @@ Hallo Semuanya..
 aku dimas.
 
 aku sedang belajar git.
+
+aku mencoba terus.
